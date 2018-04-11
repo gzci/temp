@@ -1,0 +1,21 @@
+# Created by .ignore support plugin (hsz.mobi)
+crawl.wd.iml
+.idea
+/target/
+/out/
+# Module .ignore
+/crawl.wd.common/crawl.wd.common.iml
+/crawl.wd.common/target/
+/crawl.wd.jianyu/crawl.wd.jianyu.iml
+/crawl.wd.jianyu/target/
+/crawl.wd.zhaopin/crawl.wd.zhaopin.iml
+
+/module_crawl.wd.xml
+/crawl.wd.jianyu/module_crawl.wd.jianyu.xml
+/crawl.wd.xml
+/jianyu-cookie.txt
+/crawl.wd.properties
+/crawl.wd.51job/crawl.wd.51job.iml
+/.project
+/.settings/
+/crawl.wd.jianyuJianyuWd-Cookies.cookie
